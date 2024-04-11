@@ -9,7 +9,7 @@ func main() {
 
 	c := 0
 	for c < 10+1 {
-		fmt.Print(c, " ")
+    fmt.Println("Caracter nroº: ", c)
 		c++
 	}
 }

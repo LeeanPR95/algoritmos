@@ -7,7 +7,7 @@ func main() {
 	* Escribe un algoritmo que lea los coeficientes
 	* a, b, c, d, e, f
 	* y calcule los valores de X e Y
-	 */
+	*/
 
 	var a, b, c, d, e, f, x, y float32
 
